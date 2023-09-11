@@ -1,5 +1,5 @@
 
-# Workshop Users API
+# Users API
 
 The Persons API is a RESTful API for managing user data in an application.
 
